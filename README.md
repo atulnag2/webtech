@@ -10,4 +10,6 @@ I will update the code written during the class.
 4. Using a h1 element recreate the following figure:<br> ![Snowman](images/10_snowman.png)
    - Use snowman entity code.
    - Use registered trademark entity code
+5. Your goal is to create a table, with proper headings. You should use: table, thead, tr, th, tbody , td ![Tables](images/11_tables.png)
+6. Try to search using Reddit, Google Form & Youtube.
 
