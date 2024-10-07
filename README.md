@@ -12,4 +12,16 @@ I will update the code written during the class.
    - Use registered trademark entity code
 5. Your goal is to create a table, with proper headings. You should use: table, thead, tr, th, tbody , td ![Tables](images/11_tables.png)
 6. Try to search using Reddit, Google Form & Youtube.
+7. Write a simple form with the following inputs:
+  - Username
+    - Text input
+    - Should have placeholder text of ’username’
+    - Make sure to properly label the input (using id/for attributes)
+  - Password
+    - Password input
+    - Should have placeholder text of ’password’
+    - Make sure to properly label the input (using id/for attributes)
+  - Button
+    - With the inner text ’Register’
+   Add some div or p elements for spacing.
 
