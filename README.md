@@ -34,5 +34,12 @@ I will update the code written during the class.
     - Email    Password
     - Select Age Group - Under 18, 18 - 30, 31 - 50, 50 +
     - Register
-9. Create the following table:
+9. Create the following table:<br> ![Table](images/table-1.png)
+10. Create the following HTML form also add a submit button: <br> ![Table](images/form-1.png)
+11. Using HTML character entities Create an HTML document for the following symbols:
+    - &#8747; 2y dy
+    - A &#8806; B &rArr; B &#8745; C = &Phi;
+12. Create a set of HTML reference pages for the subset of HTML elements and attributes selected by your instructor. There should first be a page that contains a (short) list of two hyperlinks: one hyperlink to a page with a table of elements, and the other to a page with a table of attributes. The table of elements should contain two columns: the first listing the elements, and the second listing the attributes that are associated with each element. The attributes should be listed one per table row, and each element name should span the rows containing its attributes. Each element and attribute name in the table should be a hyperlink to a detail page describing that element or attribute. Each detail page should use a dl style list to define the element or attribute (your description can be short - a sentence or two - but it should be accurate). The table of attributes should be similar, except that the attribute names are in the first column and each attribute name will span a set of rows containing element names associated with the attribute. All pages should have meaningful titles, and tables should include meaningful captions.
+13. Create an HTML document (web page) that gathers information as part of an online product ordering system. This page will request shipping and billing name and address, credit card information, and contact information (e-mail address and phone number). It should provide a menu from which the type of credit card (from a list of approximately four options) can be selected; the default selection should be "Select a Credit Card". There should also be fields for entering the card number and expiration date. Furthermore, there should be a checkbox, initially checked, that is labeled "Please keep me informed about future product offerings." Finally, provide submit and clear buttons. All form controls should have appropriate name attributes. Use the GET method for form submission, and specify the empty string for the action.
+							
 
