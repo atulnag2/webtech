@@ -24,4 +24,15 @@ I will update the code written during the class.
   - Button
     - With the inner text ’Register’
    Add some div or p elements for spacing.
+8. Create a form for Race Registeration
+    - Race Registeration
+    - First Name  Last name
+    - Select a Race
+      - Fun Run 5K
+      - Half Marathon
+      - Full Marathon
+    - Email    Password
+    - Select Age Group - Under 18, 18 - 30, 31 - 50, 50 +
+    - Register
+9. Create the following table:
 
