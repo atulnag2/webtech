@@ -47,7 +47,7 @@ I will update the code written during the class.
     - paragraphs - white text, black background color
     - Buttons- red text, pink background color
 14. Design a logo for a cold drinks company called - ![Purple Grain logo](images/1_logo.png)
-Style the given ( [Logo](files/logo.html) ) h1 using the following:
+ Style the given ( [Logo](files/logo.html) ) h1 using the following:
     - uppercase all the letters, without touching the html!
     - set the font-family to be 'monospace'
     - center align the text
