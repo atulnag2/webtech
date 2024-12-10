@@ -61,5 +61,10 @@ I will update the code written during the class.
  - Give all li elements the text color blue
  - Give all elments with the class of done the text color grey
  - Give the element with the id clear a red background and white text.
+16. Create a CSS for desc.html to accomplish the following:
+   text style
+ - Give only the links in the header - font size of 30 px, color of teal
+ - Give only the links in the paragraph with the id 'dislikes' - bolded, color of red
+17. Given HTML file ( checkboard.html ) contains 25 < div > elements, each with the class of square & Starter CSS ( checkboard.css ). Please create a simple check-board pattern by making even squares black and the odd squares red. Your result should look like the image below.
 							
 
