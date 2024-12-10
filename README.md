@@ -56,7 +56,7 @@ I will update the code written during the class.
     - set spacing between letters to 20px
     - add a wavy plum underline (plum is the color)
 15. Without touching any of the starter HTML code ( todos.html)
-  list image
+    ![Todos](images/12_basicex.png)
    write CSS according to these rules:
  - Give all li elements the text color blue
  - Give all elments with the class of done the text color grey
