@@ -55,7 +55,7 @@ I will update the code written during the class.
     - make the text size 40px
     - set spacing between letters to 20px
     - add a wavy plum underline (plum is the color)
-15. Without touching any of the starter HTML code ( todos.html)
+15. Without touching any of the starter HTML code ([Todos](files/todos.html))
     ![Todos](images/12_basicex.png)
    write CSS according to these rules:
  - Give all li elements the text color blue
