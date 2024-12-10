@@ -55,5 +55,11 @@ I will update the code written during the class.
     - make the text size 40px
     - set spacing between letters to 20px
     - add a wavy plum underline (plum is the color)
+15. Without touching any of the starter HTML code ( todos.html)
+  list image
+   write CSS according to these rules:
+ - Give all li elements the text color blue
+ - Give all elments with the class of done the text color grey
+ - Give the element with the id clear a red background and white text.
 							
 
