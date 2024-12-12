@@ -66,7 +66,7 @@ I will update the code written during the class.
  - Give only the links in the header - font size of 30 px, color of teal
  - Give only the links in the paragraph with the id 'dislikes' - bolded, color of red
 17. Given HTML file ( [checkboard.html](files/checkboard.html) ) contains 25 < div > elements, each with the class of square & Starter CSS ( [checkboard.css](files/checkboard.css) ). Please create a simple check-board pattern by making even squares black and the odd squares red. Your result should look like the image below. <br>![checkboard](images/14_check.png)
-18. Using the HTML file dog.html, given image Dog image and box model properties add styles to "app.css" to recreate image:
+18. Using the HTML file [dog.html](files/dog.html), given image [Dog image](files/dog.png) and box model properties add styles to "app.css" to recreate image:
  - The card div
     - 210px width
     - 1px grey border (solid border-style)
@@ -76,5 +76,6 @@ I will update the code written during the class.
     - 200px wide
     - 5px border with color rgb(236, 183, 191)(solid border-style)
     - 50% border-radius
+   ![Dog Exercise](files/boxExercise.png)
 							
 
