@@ -75,7 +75,7 @@ I will update the code written during the class.
  - The image
     - 200px wide
     - 5px border with color rgb(236, 183, 191)(solid border-style)
-    - 50% border-radius
+    - 50% border-radius<br>
    ![Dog Exercise](files/boxExercise.png)
 							
 
