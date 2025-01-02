@@ -77,5 +77,9 @@ I will update the code written during the class.
     - 5px border with color rgb(236, 183, 191)(solid border-style)
     - 50% border-radius<br>
    ![Dog Exercise](files/boxExercise.png)
+19. Write a JavaScript program to play a guessing game. The script should "think" of a random number between 1 and 1000, then give the user chances to guess the number. For each guess, the script should report whether the guessed number was too low, too high, or correct.
+20. Write a JavaScript program that generates 5 random math problems. Each math problem should consist of three operands (random integers between -10 and 10, inclusive) and two operators (randomly drawn from +, -, *, and %). For example, a problem might be 5 + 8 * 6. Display each problem, and allow the user to enter an integer representing the value of the problem. After all 5 problems have been answered; output the number of correct answers.
+21. Write a function median() that accepts a one-dimensional array containing an odd number of integers as its single argument and returns the median value stored in the array (this is the value of the middle element of a sorted version of the array). The argument array should not be modified.
+22. Write a JS program using a function and DOM features to interact with an HTML form contains two form fields for the user to enter two integers and the resulting sum is calculated dynamically and placed in the third form field.
 							
 
